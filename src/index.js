@@ -58,8 +58,9 @@ class Interaction extends React.Component {
 
     render() {
         this.state.comments.sort(function(a, b){return a.date-b.date})
+        console.log(this.state.comments);
         let comments = this.state.comments.map((comment) => 
-            <span key={comment.id}>
+            <span key={comment.comment_id}>
                 <b>{comment.user}: </b> {comment.content}<br/>
             </span>
         );

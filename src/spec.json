@@ -9,23 +9,26 @@
                     {
                         "user": "f0x@instace.local",
                         "content": "first comment",
-                        "date": "2018-03-10"
+                        "date": "2018-03-10",
+                        "comment_id": "a0"
                     },
                     {
                         "user": "f0x@instace.local",
                         "content": "first commenawdwadawt",
-                        "date": "2018-03-10"
+                        "date": "2018-03-10",
+                        "comment_id": "a1"
                     },
                     {
                         "user": "someone@instace.local",
-                        "content": "second comment",
-                        "date": "2018-03-12"
-                    }   
+                        "content": "secawdwadond commen1111t",
+                        "date": "2018-03-12",
+                        "comment_id": "a2"
+                    }
                 ]
             }
         },
         {
-            "image": "https://f.0x52.eu/media/ledspace/final.png",
+            "image": "https://f.0x52.eu/media/ledspace/final2.png",
             "desc": "Ledspace",
             "interaction": {
                 "likes": "5",
@@ -33,17 +36,26 @@
                     {
                         "user": "f0x@instace.local",
                         "content": "first comment",
-                        "date": "2018-03-10"
+                        "date": "2018-03-10",
+                        "comment_id": "b0"
                     },
                     {
                         "user": "f0x@instace.local",
                         "content": "first commenawdwadawt",
-                        "date": "2018-03-10"
+                        "date": "2018-03-10",
+                        "comment_id": "b1"
                     },
                     {
                         "user": "someone@instace.local",
                         "content": "second comment",
-                        "date": "2018-03-12"
+                        "date": "2018-03-12",
+                        "comment_id": "b2"
+                    },
+                    {
+                        "user": "someone@instace.local",
+                        "content": "s208uasdwt",
+                        "date": "2018-03-12",
+                        "comment_id": "b3"
                     }   
                 ]
             }
