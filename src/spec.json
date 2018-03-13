@@ -10,19 +10,19 @@
                         "user": "f0x@instace.local",
                         "content": "first comment",
                         "date": "2018-03-10",
-                        "comment_id": "a0"
+                        "comment_id": "0"
                     },
                     {
                         "user": "f0x@instace.local",
-                        "content": "first commenawdwadawt",
+                        "content": "second comment",
                         "date": "2018-03-10",
-                        "comment_id": "a1"
+                        "comment_id": "1"
                     },
                     {
                         "user": "someone@instace.local",
-                        "content": "secawdwadond commen1111t",
+                        "content": "another one",
                         "date": "2018-03-12",
-                        "comment_id": "a2"
+                        "comment_id": "2"
                     }
                 ]
             }
@@ -37,25 +37,31 @@
                         "user": "f0x@instace.local",
                         "content": "first comment",
                         "date": "2018-03-10",
-                        "comment_id": "b0"
+                        "comment_id": "0"
                     },
                     {
                         "user": "f0x@instace.local",
-                        "content": "first commenawdwadawt",
+                        "content": "aaaaaaaaaaaaaa",
                         "date": "2018-03-10",
-                        "comment_id": "b1"
+                        "comment_id": "1"
                     },
                     {
                         "user": "someone@instace.local",
-                        "content": "second comment",
+                        "content": "bbbbbbbbbbb",
                         "date": "2018-03-12",
-                        "comment_id": "b2"
+                        "comment_id": "2"
                     },
                     {
                         "user": "someone@instace.local",
-                        "content": "s208uasdwt",
+                        "content": "cccccccccccc",
                         "date": "2018-03-12",
-                        "comment_id": "b3"
+                        "comment_id": "3"
+                    },
+                    {
+                        "user": "someone@instace.local",
+                        "content": "dddddddd",
+                        "date": "2018-03-12",
+                        "comment_id": "4"
                     }   
                 ]
             }

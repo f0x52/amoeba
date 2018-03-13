@@ -51,23 +51,17 @@ class Post extends React.Component {
 }
 
 class Interaction extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {likes: props.data.likes, comments: props.data.comments};
-    }
-
     render() {
-        this.state.comments.sort(function(a, b){return a.date-b.date})
-        console.log(this.state.comments);
-        let comments = this.state.comments.map((comment) => 
+        this.props.data.comments.sort(function(a, b){return a.date-b.date})
+        let comments = this.props.data.comments.map((comment) => 
             <span key={comment.comment_id}>
                 <b>{comment.user}: </b> {comment.content}<br/>
             </span>
         );
         return (
             <div>
-                Likes: {this.state.likes}<br/>
-                Comments: {this.state.comments.length}
+                Likes: {this.props.data.likes}<br/>
+                Comments: {this.props.data.comments.length}
                 <div className="comments">
                     {comments}
                 </div>
