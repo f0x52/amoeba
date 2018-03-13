@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "FOSS Image Sharing",
     "main": "index.js",
-    "repository": "https://github.com/f0x52/amoeba",
+    "repository": "https://github.com/f0x52/amoeba-client",
     "author": "f0x",
     "license": "GPL-3.0",
     "scripts": {
