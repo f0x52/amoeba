@@ -52,7 +52,7 @@ class Post extends React.Component {
 
 class Interaction extends React.Component {
     render() {
-        this.props.data.comments.sort(function(a, b){return a.date-b.date})
+        this.props.data.comments.sort(function(a, b){return a.comment_id-b.comment_id})
         let comments = this.props.data.comments.map((comment) => 
             <span key={comment.comment_id}>
                 <b>{comment.user}: </b> {comment.content}<br/>
