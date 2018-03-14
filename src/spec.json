@@ -1,25 +1,29 @@
 {
     "posts": [
         {
-            "image": "https://f.0x52.eu/media/ledspace/final2.png",
+            "image": "https://f.0x52.eu/media/ledspace/final.png",
             "desc": "Ledspace",
+            "user": {
+                "name": "f0x",
+                "image": "https://avatars2.githubusercontent.com/u/23422690?s=400&u=ce8a330843d7c3427eeac104924c09d5b025fde3&v=4"
+            },
             "interaction": {
                 "likes": "5",
                 "comments": [
                     {
-                        "user": "f0x@instace.local",
+                        "user": "f0x@instance.local",
                         "content": "first comment",
                         "date": "2018-03-10",
                         "comment_id": "0"
                     },
                     {
-                        "user": "f0x@instace.local",
+                        "user": "f0x@instance.local",
                         "content": "second comment",
                         "date": "2018-03-10",
                         "comment_id": "1"
                     },
                     {
-                        "user": "someone@instace.local",
+                        "user": "someone@instance.local",
                         "content": "another one",
                         "date": "2018-03-12",
                         "comment_id": "2"
@@ -30,35 +34,39 @@
         {
             "image": "https://f.0x52.eu/media/ledspace/final2.png",
             "desc": "Ledspace",
+            "user": {
+                "name": "f0x",
+                "image": "https://avatars2.githubusercontent.com/u/23422690?s=400&u=ce8a330843d7c3427eeac104924c09d5b025fde3&v=4"
+            },
             "interaction": {
                 "likes": "5",
                 "comments": [
                     {
-                        "user": "f0x@instace.local",
+                        "user": "f0x@instance.local",
                         "content": "first comment",
                         "date": "2018-03-10",
                         "comment_id": "0"
                     },
                     {
-                        "user": "f0x@instace.local",
+                        "user": "f0x@instance.local",
                         "content": "aaaaaaaaaaaaaa",
                         "date": "2018-03-10",
                         "comment_id": "1"
                     },
                     {
-                        "user": "someone@instace.local",
+                        "user": "someone@instance.local",
                         "content": "bbbbbbbbbbb",
                         "date": "2018-03-12",
                         "comment_id": "2"
                     },
                     {
-                        "user": "someone@instace.local",
+                        "user": "someone@instance.local",
                         "content": "cccccccccccc",
                         "date": "2018-03-12",
                         "comment_id": "3"
                     },
                     {
-                        "user": "someone@instace.local",
+                        "user": "someone@instance.local",
                         "content": "dddddddd",
                         "date": "2018-03-12",
                         "comment_id": "4"
